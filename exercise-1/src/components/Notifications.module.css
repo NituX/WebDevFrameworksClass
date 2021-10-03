@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    background-color: yellow;
+    align-items: center;
+    height: 30px;
+}
+
+.rightNow{
+    color: red;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.header{
+    color: black;
+    font-weight: 700;
+    margin-left: 3px;
+}

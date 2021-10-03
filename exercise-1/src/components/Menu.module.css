@@ -1,0 +1,98 @@
+.mainNavContainer {
+    position: relative;
+    overflow: hidden;
+    background: red;
+    box-shadow: 0 2px 2px 2px #ddd;
+}
+
+.mainNav{
+    width: calc(100% - 84px);
+}
+
+.navContainer{
+    box-shadow: 0 1px 2px #ddd;
+}
+.mainNav ul {
+    padding: 0;
+    margin: 0;
+    height: 41px;
+}
+
+nav{
+    position: relative;
+    clear: both;
+    overflow-x: hidden;
+    padding-bottom: 7px;
+}
+
+.mainNav li {
+display: inline-block;
+font-size: 13px;
+font-weight: bold;
+color:whitesmoke;
+margin-right: 5px;
+}
+
+.mainNav a{    
+    justify-content:none;
+    text-decoration:none;
+    font-family: Bernino Sans Condensed,Arial,Verdana;
+    font-weight: 700;
+    font-size: 12px;
+    margin: 0 6px;
+    padding: 12px 0 6px;
+    color: #fff;
+    text-align: center;
+    line-height: 20px;
+    display: block;
+}
+
+.subNavMenu {
+    display: block;
+}
+
+.subNavMenu ul {
+    font-family: Bernino Sans Condensed,Arial,Verdana;
+    font-weight: 600;
+    margin: 0;
+    padding: 7px;
+    font-size: 14px;
+}
+
+.subNavMenu li {
+    display: inline-block;
+}
+
+.subNavMenu a{
+    text-decoration: none;
+    display: block;
+    color: #222;
+    display: block;
+    padding: 2px 7px;
+    border-right: 1px solid rgb(150, 150, 150);
+}
+
+.magglasimage {
+    display: block;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    right: 50px;
+    top: 5px;
+}
+.hamburgerimage {
+    display: block;
+    height: 30x;
+    width: 30px;
+    position: absolute;
+    right: 0;
+    top: 5px;
+}
+
+*, :after, :before {
+    box-sizing: inherit;
+}
+
+.subNavMenu li:last-child a {
+    border-right: none;
+}

@@ -1,0 +1,45 @@
+.newsContainer{
+    display:flex;
+    max-width: 980px;
+    min-width: 238px;
+    padding: 0 7px;
+}
+.mostReaded{
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 340px;
+}
+
+.mainFeed{
+    flex-grow: 63;
+    flex-shrink: 1;
+    flex-basis: 0%;
+}
+
+.site{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #f0f0f0;
+}
+
+div{
+    display:block;
+}
+
+body{
+    background-color: #f0f0f0;
+    font-family: Bernino Sans,Verdana,Arial,sans-serif;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+div.container{
+    word-wrap: break-word;
+    position: relative;
+    }
+
+.app {
+    background-color: #e0e0e0;
+}

@@ -1,0 +1,9 @@
+.searchView{
+    max-width: 1000px;
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(3, 33%);
+    gap: 2%;
+}

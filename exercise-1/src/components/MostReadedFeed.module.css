@@ -1,0 +1,68 @@
+.header{
+    font-family: Bernino Sans Condensed,Arial,Verdana;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #dc0000;
+    margin: 7px 14px;
+}
+
+button{
+    background-color: rgba(0,0,0,0);
+    font-family: Bernino Sans Condensed,Arial,Verdana;
+    font-size: 18px;
+    font-weight: 600;
+    color: #666;
+    border: none;
+    text-align: left;
+    outline: none;
+    position: relative;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: initial;
+    padding-bottom: 4px;
+    padding-top: 7px;
+}
+
+button:not(:last-of-type):after {
+    content: "";
+    position: absolute;
+    height: 67%;
+    background-color: #ddd;
+    width: 1px;
+    margin-left: 5px;
+}
+
+.container{
+    background-color: white;
+    box-shadow: 0 2px 2px 2px #ddd;
+}
+
+ol {
+    list-style: none;
+    counter-reset: my-awesome-counter;
+  }
+  ol li {
+    counter-increment: my-awesome-counter;
+    font-size: 15px;
+    font-weight: bold;
+    
+  }
+  ol li::before {
+    content: counter(my-awesome-counter) ". ";
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+
+  .vl {
+      border-left: 1px solid lightgray;
+      height: 15px;
+  }
+
+  .active {
+    color: #dc0000;
+    border-bottom: 3px solid #dc0000;
+}
+
