@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "fname": "Nakke",
+            "lname": "Nakuttaja",
+            "address": "Nakukuja 2 A 5",
+            "city": "nakula",
+            "email": "nakkeboi@nakuttaja.com",
+            "invoices": [
+            ]
+        }
+    ]
+}

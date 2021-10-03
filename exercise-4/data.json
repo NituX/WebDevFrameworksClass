@@ -1,0 +1,104 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "name": "Asus TUF VG27A, 27\" 160Hz 2560p NVIDIA G-SYNC Gaming Monitor",
+            "manufacturer": "Asus",
+            "category": "",
+            "rating": 4.5,
+            "ratingcount": "2,455,542",
+            "price": 299.99,
+            "image": "Asus-TUF-VG27A.png",
+            "desc": "27in, 2560x1440p, 160hz, G-SYNC, DisplayPort, HDMI",
+            "banner": "Best seller!"
+        },
+        {
+            "id": "2",
+            "name": "Asus VE248, 24\" 144Hz 1080p Gaming Monitor",
+            "manufacturer": "Asus",
+            "category": "",
+            "rating": 3.5,
+            "ratingcount": "659,542",
+            "price": 129.99,
+            "image": "Asus-VE248.png",
+            "desc": "24in, 1980x1080p, 60hz, VGA, DVI, HDMI"
+        },
+        {
+            "id": "3",
+            "name": "Asus VG248 24\" 60Hz 1080p Monitor",
+            "manufacturer": "Asus",
+            "category": "",
+            "rating": 4,
+            "ratingcount": "23,594",
+            "price": 199.99,
+            "image": "Asus-VG248.png",
+            "desc": "24in, 1980x1080p, 144hz, DVI, DisplayPort, HDMI"
+        },
+        {
+            "id": "4",
+            "name": "Corsair K70 LUX RGB Mechanical Keyboard",
+            "manufacturer": "Corsair",
+            "category": "",
+            "rating": 3.5,
+            "ratingcount": "654,568",
+            "price": 129.99,
+            "image": "Corsair-k70RGB.png",
+            "desc": "K70, RGB-lights, numpad, media keys, easy software"
+        },
+        {
+            "id": "5",
+            "name": "Fractal Desing Define C Windowed Computer Case",
+            "manufacturer": "Fractal Desing",
+            "category": "",
+            "rating": 5,
+            "ratingcount": "1,512,156",
+            "price": 79.99,
+            "image": "Fractal-Desing-Define-C.png",
+            "desc": "midi-ATX casing, window, quiet, 2 fans"
+        },
+        {
+            "id": "6",
+            "name": "Logitech G603 Optical Wireless Gaming Mouse",
+            "manufacturer": "Logitech",
+            "category": "",
+            "rating": 4,
+            "ratingcount": "605,654",
+            "price": 49.99,
+            "image": "Logitech-G603.png",
+            "desc": "Comfortable, wireless, 2x AA-batteries included, 2x thumb buttons, removable cover, 6000dpi"
+        },
+        {
+            "id": "7",
+            "name": "Logitech Z523 2.1 Stereo Speakers with subwoofer",
+            "manufacturer": "Logitech",
+            "category": "",
+            "rating": 4,
+            "ratingcount": "841,548",
+            "price": 59.99,
+            "image": "Logitech-Z523.png",
+            "desc": "2.1 Speaker system, good sound quality, AUX in/out, RCA in"
+        },
+        {
+            "id": "8",
+            "name": "SteelSeries Arctic Pro Wireless Gaming Headchet | BT, USB, AUX",
+            "manufacturer": "SteelSeries",
+            "category": "",
+            "rating": 5,
+            "ratingcount": "300,456",
+            "price": 299.99,
+            "image": "SteelSeries-arctic-pro-w.png",
+            "desc": "Wireless headphones, 2x swappable long lasting batteries, Bluetooth, Sound & mic quality winner"
+        },
+        {
+            "id": "9",
+            "name": "VIVO 3 Monitor Stand | Standard Mounting, Screw Mount to Table, Movable Arms",
+            "manufacturer": "VIVO",
+            "category": "",
+            "rating": 4,
+            "ratingcount": "31,542",
+            "price": 49.99,
+            "image": "VIVO-3-Monitor-Stand.png",
+            "desc": "Stable stand up to 3 monitors, standard mounting, screw tightening to table, movable arms"
+        }
+    ]
+}
